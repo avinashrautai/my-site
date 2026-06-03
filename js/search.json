@@ -1,0 +1,85 @@
+[
+{
+"title":"The Art of Slow Building",
+"url":"articles/the-art-of-slow-building.html",
+"description":"Why meaningful projects are often built slowly, carefully and with patience.",
+"keywords":"slow building software craft patience projects writing"
+},
+
+{
+"title":"Why Most Software Feels Empty",
+"url":"articles/why-most-software-feels-empty.html",
+"description":"A reflection on templates, trends and intention.",
+"keywords":"software design templates ai products ux"
+},
+
+{
+"title":"Observation Before Automation",
+"url":"articles/observation-before-automation.html",
+"description":"The importance of understanding before building.",
+"keywords":"observation automation software thinking systems"
+},
+
+{
+"title":"The Problem With Infinite Tools",
+"url":"articles/the-problem-with-infinite-tools.html",
+"description":"Having more tools does not automatically produce better work.",
+"keywords":"tools productivity software creativity"
+},
+
+{
+"title":"Building Before Understanding",
+"url":"articles/building-before-understanding.html",
+"description":"Why rushing toward solutions often creates bigger problems.",
+"keywords":"building understanding software users products"
+},
+
+{
+"title":"The Quiet Advantage",
+"url":"articles/the-quiet-advantage.html",
+"description":"What observation reveals that noise often hides.",
+"keywords":"thinking observation focus attention"
+},
+
+{
+"title":"Notes From The Web",
+"url":"articles/notes-from-the-web.html",
+"description":"Thoughts gathered while exploring the internet.",
+"keywords":"web internet websites blogging technology"
+},
+
+{
+"title":"Why Simplicity Is Hard",
+"url":"articles/why-simplicity-is-hard.html",
+"description":"The hidden effort behind tools that feel effortless.",
+"keywords":"simplicity design minimalism software"
+},
+
+{
+"title":"On Publishing",
+"url":"articles/on-publishing.html",
+"description":"Publishing is easier than ever, yet harder than it looks.",
+"keywords":"publishing books blogging writing creator"
+},
+
+{
+"title":"Small Details Matter",
+"url":"articles/small-details-matter.html",
+"description":"The little decisions that quietly shape user experience.",
+"keywords":"details ux design software craftsmanship"
+},
+
+{
+"title":"Bookmaker",
+"url":"bookmaker.html",
+"description":"Turn your writing into a complete book.",
+"keywords":"bookmaker writing books publishing formatting"
+},
+
+{
+"title":"AI Note",
+"url":"ainote.html",
+"description":"Think it. Look it. Note it.",
+"keywords":"notes ai knowledge management thinking research"
+}
+]
